@@ -23,4 +23,4 @@ pre_playlist 클래스(base_playlist를 상속)의 객체
 
 ---
 
-[링크 돌아가는거 있음좋겠는데 귀찮](https://github.com/FarAway6834/MutedPlaylists/tree/main)
+[링크 돌아가는거 있음좋겠는데 귀찮](https://github.com/FarAway6834/ModPlaylist/tree/main)
