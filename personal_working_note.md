@@ -3,3 +3,9 @@
 I think that it's best guide I'd ever seen. because it aren't sucks.
 
 oh wait, but language is korean.
+
+---
+
+[git login guide line](https://on-ai.tistory.com/9)
+
+sucks but useful.
