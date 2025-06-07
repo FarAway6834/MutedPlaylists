@@ -20,3 +20,7 @@ pre_playlist 클래스(base_playlist를 상속)의 객체
  - put_it_on_the(turn_table) 메서드를 사용하면, 내부에 숨겨진 curser_data_regularize_preprocessing() 메서드를 호출한 후, 커서가 가르키는 위치 (this[file_curser]가 가르키는거)가 url이면 turn_table_setting_core(turn_table)을 호출하고, url이 아닌 pre_playlist계열 객체면, this[file_curser].put_it_on_the(turn_table)로 해당 플리에서 재생함.
  - 따로 제한하진 않지만, 원칙적으로 url이나 pre_playlist계열 객체만 포함해야함, 따라서, pre_playlist계열 객체인지 url인지 판단할때, url이 아닌데 pre_playlist계열 객체도 아니라면, PlaylistElementException_ErrorCode09EE(Playlist Elemebt Exception이므로, PEE를 9EE로)을 발생시킴.
  - 인코드 문서수준에서, 타입세이프하게 상속한다음에 사용할것을 권장하므로, pre_playlist를 playlist로 바꾸기 전에 커스텀할 자유를 주지만, 대신에 프로그래머가 처신을 잘해야한다. (C언어가 그렇듯, 자유를 주지만 처신을 잘해야한다.)
+
+---
+
+[링크 돌아가는거 있음좋겠는데 귀찮](https://github.com/FarAway6834/MutedPlaylists/tree/main)
