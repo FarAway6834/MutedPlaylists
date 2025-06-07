@@ -2,7 +2,7 @@
 
 I think that it's best guide I'd ever seen. because it aren't sucks.
 
-oh wait, but language is korean.
+oh wait, all guideline's language is korean.
 
 ---
 
