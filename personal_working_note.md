@@ -9,3 +9,7 @@ oh wait, all guideline's language is korean.
 [git login guide line](https://on-ai.tistory.com/9)
 
 sucks but useful.
+
+`git config credential.helper 'cache --timeout=□'` (`□ = 86400 x`)
+
+ex) `git config credential.helper 'cache --timeout=259200'`
