@@ -1,7 +1,7 @@
 # MutedPlaylists
- - Playlist class moudule for FE Playlist
- - FE playlist
- - FE playlist hosting url
+ - Playlist class [module](https://github.com/FarAway6834/ModPlaylist) for FE Playlist
+ - [FE playlist](./docs/README.md)
+ - [FE playlist hosting url](404arent-yet)
 
 ## Why dose it coded?
 
